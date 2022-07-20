@@ -1,34 +1,25 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Kim":
+  - firstname: ["Wonjoon", "W."]
+    url: http://wjkim.kaist.ac.kr
+  - firstname: ["Junsik", "J."]
+    url: https://sites.google.com/site/jskimcv/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Kim*":
+  - firstname: ["Wonjoon", "W."]
+    url: http://wjkim.kaist.ac.kr
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Choi":
+  - firstname: ["Sukwoong", "S."]
+    url: https://sukwoongchoi.github.io
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Kang":
+  - firstname: ["Hyo", "H."]
+    url: https://hyokang.com
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Yoon": 
+  - firstname: ["David", "Hyungseok David", "Hyungseok", "D.", "H.D.", "H."]
+    url: https://business.leeds.ac.uk/divisions-international-business/staff/270/dr-david-yoon
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Yoon*": 
+  - firstname: ["David", "Hyungseok David", "Hyungseok", "D.", "H.D.", "H."]
+    url: https://business.leeds.ac.uk/divisions-international-business/staff/270/dr-david-yoon

@@ -22,6 +22,9 @@
             {%- if site.twitter_username -%}
             <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter"><i class="fab fa-twitter"></i></a>
             {% endif %}
+            {%- if site.ssrn_id -%}
+            <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id={{ site.ssrn_id }}" title="ssrn"><i class="ai ai-ssrn"></i></a>
+            {% endif %}
             {%- if site.medium_username -%}
             <a href="https://medium.com/@{{ site.medium_username }}" title="Medium"><i class="fab fa-medium"></i></a>
             {% endif %}
