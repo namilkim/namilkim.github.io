@@ -20,8 +20,9 @@
         </div>
 
         <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="col-sm-9" style="padding-left: 0px;padding-right: 0px;">
-        {% if entry.type == "thesis" -%}
+        <!-- <div id="{{entry.key}}" class="col-sm-9" style="padding-left: 0px;padding-right: 0px;"> -->
+        <div id="{{entry.key}}" class="col-sm-9">
+          {% if entry.type == "thesis" -%}
           {{reference}}
         {%- else %}
           <!-- Title -->
