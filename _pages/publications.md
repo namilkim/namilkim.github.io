@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: See updated list on <a href='https://scholar.google.com/citations?user=FvPXxs0AAAAJ&hl=en'> Google Scholar </a>.
+permalink: /research/
+title: research
+description: Please see more complete list of publications on <a href='https://scholar.google.com/citations?user=FvPXxs0AAAAJ&hl=en'> Google Scholar</a>.
 years: [current, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
 categories: ['Working Papers', 'Work-in-progress', 'Published Papers']
 catprint: ['', 'Working Papers', 'Work-in-progress', 'Published Papers', 'Conferences', 'Posters']
