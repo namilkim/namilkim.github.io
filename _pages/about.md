@@ -30,7 +30,7 @@ I am **Namil Kim**, an associate professor at the [School of Management](https:/
   - Specifically some of my current working projects discuss how digitization and AI changes decision-making, knowledge discovery, collaborative works, group discussions and new product usages.
 <br>
 <br>
-- You can find my research at the [publictions](./publications) section of my webpage or [google scholar](https://scholar.google.com/citations?user=FvPXxs0AAAAJ).
+- You can find my research at the [research](./research) section of my webpage or [google scholar](https://scholar.google.com/citations?user=FvPXxs0AAAAJ).
 
 - Feel free to contact me via email below if you like my research.
 
