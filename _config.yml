@@ -93,9 +93,9 @@ contact_note: >
 # -----------------------------------------------------------------------------
 
 google_analytics:  G-33P9XNPBG9 # your google-analytics ID (format: UA-XXXXXXXXX)
-panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
+panelbear_analytics:  FSfFyGKrTeW # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_site_verification: google-site-verification=OQE3ed3NoyUPdljaeP-GDv4QK0nNxR2Zq1-yLhKlcww # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
