@@ -31,6 +31,12 @@ body.sticky-bottom-footer {
   img {
     width: 100%;
   }
+  @media only screen and (max-width: 575px) {
+    img {
+      width: 60%;
+      margin-left: 20vw;
+    }
+  }
 }
 
 // TODO: redefine content layout.
