@@ -231,13 +231,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-<<<<<<< HEAD
   last_name: [Kim*, Kim]
   first_name: [Namil, N., Namil* N.*]
-=======
-  last_name: [Einstein]
-  first_name: [Albert, A.]
->>>>>>> upstream/master
 
   style: apa
   locale: en
