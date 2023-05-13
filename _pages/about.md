@@ -25,10 +25,10 @@ social: true  # includes social icons at the bottom of the page
 I am **Namil Kim**, an associate professor at the [School of Management](https://som.hit.edu.cn/en/), [Harbin Institute of Technology](https://en.hit.edu.cn). 
 
 
-- My research interests encompass topics within strategic management, innovation, and entrepreneurship. 
-  - I have carried out studies on industry dynamics, firms' innovation performance, and the influence of socio-economic factors on entrepreurial activities.
-  - Lately, I have also developed an interest in the economics of digitization and AI. 
-  - In particular, some of my current work-in-progress projects explore how digitization and AI transform decision-making, knowledge discovery, collaborative efforts, and the utilization of new products.
+- My research interests broadly lie in innovation and entrepreneurship. 
+  - I have conducted studies on industry dynamics, firm's innovation performance, and influence of socio-economic factors on entrepreurial activities.
+  - Recently, I am also interested in the economics of digitiztion and AI. 
+  - Specifically some of my current working projects discuss how digitization and AI changes decision-making, knowledge discovery, collaborative works, group discussions and new product usages.
 <br>
 <br>
 - You can find my research at the [research](./research) section of my webpage or [google scholar](https://scholar.google.com/citations?user=FvPXxs0AAAAJ).
