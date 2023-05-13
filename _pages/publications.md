@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: research
 description: Please see more complete list of publications on <a href='https://scholar.google.com/citations?user=FvPXxs0AAAAJ&hl=en' style="color:#B509AC"> Google Scholar</a>. </n>
 The corresponding author is denoted by *.
 years: [current, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
