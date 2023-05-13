@@ -247,17 +247,17 @@ blockquote {
 .navbar-toggler {
   .icon-bar {
     display: block;
-    width: 22px;
-    height: 2px;
+    width: 30px;
+    height: 3px;
     background-color: var(--global-text-color);
     border-radius: 1px;
-    margin-bottom: 4px;
+    margin-bottom: 6px;
     transition: all 0.2s;
   }
 
   .top-bar {
     transform: rotate(45deg);
-    transform-origin: 10% 10%;
+    transform-origin: 10% 90%;
   }
 
   .middle-bar {
@@ -266,7 +266,7 @@ blockquote {
 
   .bottom-bar {
     transform: rotate(-45deg);
-    transform-origin: 10% 90%;
+    transform-origin: 10% 10%;
   }
 }
 
