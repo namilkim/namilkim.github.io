@@ -274,6 +274,7 @@ blockquote {
   color: var(--global-text-color);
 }
 .navbar.navbar-light .navbar-nav .nav-item .nav-link {
+  font-size: 18px;
   color: var(--global-text-color);
 }
 .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
