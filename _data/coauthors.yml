@@ -3,6 +3,8 @@
     url: http://wjkim.kaist.ac.kr
   - firstname: ["Junsik", "J."]
     url: https://sites.google.com/site/jskimcv/
+  - firstname: ["Daehyun", "D."]
+    url: https://daehyunkim.me
 
 "Kim*":
   - firstname: ["Wonjoon", "W."]
@@ -16,6 +18,10 @@
   - firstname: ["Hyo", "H."]
     url: https://hyokang.com
 
+"Kang*":
+  - firstname: ["Hyo", "H."]
+    url: https://hyokang.com
+
 "Yoon": 
   - firstname: ["David", "Hyungseok David", "Hyungseok", "D.", "H.D.", "H."]
     url: https://business.leeds.ac.uk/divisions-international-business/staff/270/dr-david-yoon
@@ -23,3 +29,7 @@
 "Yoon*": 
   - firstname: ["David", "Hyungseok David", "Hyungseok", "D.", "H.D.", "H."]
     url: https://business.leeds.ac.uk/divisions-international-business/staff/270/dr-david-yoon
+  
+"Park": 
+  - firstname: ["Haemin Dennis", "H.D."]
+    url: https://sites.google.com/view/hdp323
