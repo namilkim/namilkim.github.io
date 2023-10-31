@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Associate Professor</p>
-    <p><a href='https://som.hit.edu.cn/en/'>School of Management</a></p>
-    <p><a href='https://en.hit.edu.cn'>Harbin Institute of Technology</a></p>
+    <p>Assistant Professor</p>
+    <p><a href='https://aif.konkuk.ac.kr/main.do'>Department of Advanced Industry Fusion</a></p>
+    <p><a href='http://www.konkuk.ac.kr/eng'>Konkuk University</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
  
 ### Welcome!
 
-I am **Namil Kim**, an associate professor at the [School of Management](https://som.hit.edu.cn/en/), [Harbin Institute of Technology](https://en.hit.edu.cn). 
+I am **Namil Kim**, an assistant professor at the [Department of Advanced Industry Fusion](https://aif.konkuk.ac.kr/main.do), [Konkuk University](http://www.konkuk.ac.kr/eng). 
 
 
 - My research interests encompass topics within strategic management, innovation, and entrepreneurship. 
