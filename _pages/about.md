@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Assistant Professor</p>
-    <p><a href='https://aif.konkuk.ac.kr/main.do'>Department of Advanced Industry Fusion</a></p>
-    <p><a href='http://www.konkuk.ac.kr/eng'>Konkuk University</a></p>
+    <p><a href='https://aif.konkuk.ac.kr'>Department of Advanced Industry Fusion</a></p>
+    <p><a href='https://www.konkuk.ac.kr/sites/en/index.do'>Konkuk University</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
  
 ### Welcome!
 
-I am **Namil Kim**, an assistant professor at the [Department of Advanced Industry Fusion](https://aif.konkuk.ac.kr/main.do), [Konkuk University](http://www.konkuk.ac.kr/eng). 
+I am **Namil Kim**, an assistant professor at the [Department of Advanced Industry Fusion](https://aif.konkuk.ac.kr), [Konkuk University](https://www.konkuk.ac.kr/sites/en/index.do). 
 
 
 - My research interests encompass topics within strategic management, innovation, and entrepreneurship. 
