@@ -22,6 +22,24 @@ social: true  # includes social icons at the bottom of the page
  
 ### Welcome!
 
+I am **Namil Kim**, an Assistant Professor in the [Department of Advanced Industry Fusion](https://aif.konkuk.ac.kr), [Konkuk University](https://www.konkuk.ac.kr/sites/en/index.do). 
+
+
+- My research interests encompass: 
+  - **Digital and AI Management**: Exploring the transformative effects of digitization and AI on organizational decision-making, knowledge creation, collaborative efforts, product innovation, and business activities.
+  - **Technology Strategy and Innovation**: Investigating the dynamics of industries and the performance of firms in innovation.
+  - **Tech-Driven and Socio-Economic Influences on Entrepreneurship**: Exploring how digital and information technologies, alongside with diverse socio-economic factors, drive and shape entrepreneurial activities.
+<br>
+- Some of my current work includes: 
+  - **AI in Business and Society**: Studying how AI technologies enhance human decision-making, learning, and knowledge creation, as well as their impact on healthcare management.
+  - **Democracy and Innovation via Information Processing**: Exploring how democracy influences innovation through press freedom, highlighting the importance of information flow.
+  - **Digital Platforms on Entrepreneurship**: Analyzing how platforms reduce barriers to entrepreneurship, fostering increased activity, particularly in low-income regions.
+<br>
+- For more detailed information on my publications and ongoing projects, please visit the [research](./research) section of my webpage or my [google scholar](https://scholar.google.com/citations?user=FvPXxs0AAAAJ) profile.
+
+- If you are interested in my research, feel free to contact me via the email provided below.
+
+<!-- 
 I am **Namil Kim**, an assistant professor at the [Department of Advanced Industry Fusion](https://aif.konkuk.ac.kr), [Konkuk University](https://www.konkuk.ac.kr/sites/en/index.do). 
 
 
@@ -35,7 +53,8 @@ I am **Namil Kim**, an assistant professor at the [Department of Advanced Indust
 
 - Feel free to contact me via email below if you like my research.
 
-<!-- If you 
+
+If you 
 
  financial market quality and portfolio allocation.
 
