@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 description: Please see more complete list of publications on <a href='https://scholar.google.com/citations?user=FvPXxs0AAAAJ&hl=en' style='color:#B509AC'> Google Scholar</a>.<br>The corresponding author is denoted by * . 
 categories: ['Published Papers', 'Working Papers', 'Work-in-progress']
-catprint: ['', 'Working Papers', 'Work-in-progress', 'Published Papers', 'Conferences', 'Posters']
+catprint: ['', 'Published Papers', 'Working Papers', 'Work-in-progress', 'Conferences', 'Posters']
 nav: true
 nav_order: 1
 ---
