@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Assistant Professor</p>
-    <p><a href='https://aif.konkuk.ac.kr'>Department of Advanced Industry Fusion</a></p>
-    <p><a href='https://www.konkuk.ac.kr/sites/en/index.do'>Konkuk University</a></p>
+    <p>Associate Professor</p>
+    <p><a href='https://gsi.yonsei.ac.kr'>Graduate School of Information</a></p>
+    <p><a href='https://www.yonsei.ac.kr'>Yonsei University</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -22,19 +22,13 @@ social: true  # includes social icons at the bottom of the page
  
 ### Welcome!
 
-I am **Namil Kim**, an Assistant Professor in the [Department of Advanced Industry Fusion](https://aif.konkuk.ac.kr), [Konkuk University](https://www.konkuk.ac.kr/sites/en/index.do). 
+I am **Namil Kim**, an incoming Associate Professor at the [Graduate School of Information](https://gsi.yonsei.ac.kr) of [Yonsei University](https://www.yonsei.ac.kr/). 
 
 
 My research interests encompass: 
-  - **Digital and AI Management**: Exploring the transformative effects of digitization and AI on organizational decision-making, knowledge creation, collaborative efforts, product innovation, and business activities.
-  - **Technology Strategy and Innovation**: Investigating the dynamics of industries and the performance of firms in innovation.
-  - **Tech-Driven and Socio-Economic Influences on Entrepreneurship**: Exploring how digital and information technologies, alongside with diverse socio-economic factors, drive and shape entrepreneurial activities.
-<br>
-
- Some of my current work includes: 
-  - **AI in Business and Society**: Studying how AI technologies enhance human decision-making, learning, and knowledge creation, as well as their impact on healthcare management.
-  - **Democracy and Innovation via Information Processing**: Exploring how democracy influences innovation through press freedom, highlighting the importance of information flow.
-  - **Digital Platforms on Entrepreneurship**: Analyzing how platforms reduce barriers to entrepreneurship, fostering increased activity, particularly in low-income regions.
+  - **Digital Transformation & AI**: Investigating how digitization and artificial intelligence enhance decision-making, drive innovation, and improve organizational performance across sectors including healthcare.
+  - **Innovation & Entrepreneurship**: Analyzing technology strategy, industry dynamics, and the role of socio-economic factors in shaping innovation and entrepreneurial ecosystems.
+  - **Technology Strategy & Institutional Impacts**: Examining how information, institutions, and regulatory frameworks influence innovation, market dynamics, and the global diffusion of technology.
 <br>
 
 
