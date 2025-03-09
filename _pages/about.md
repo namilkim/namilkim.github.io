@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
  
 ### Welcome!
 
-I am **Namil Kim**, an incoming Associate Professor at the [Graduate School of Information](https://gsi.yonsei.ac.kr) of [Yonsei University](https://www.yonsei.ac.kr/). 
+I am **Namil Kim**, an Associate Professor at the [Graduate School of Information](https://gsi.yonsei.ac.kr) of [Yonsei University](https://www.yonsei.ac.kr/). 
 
 
 My research interests encompass: 
