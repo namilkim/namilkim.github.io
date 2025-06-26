@@ -1,6 +1,5 @@
 # Ignore all node_modules links
 node_modules/
-**/node_modules/**
 
 # Ignore problematic external URLs
 https://img.shields.io/travis/jonschlinkert/isobject.svg?style=flat
