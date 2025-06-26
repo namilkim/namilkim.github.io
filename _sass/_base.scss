@@ -207,6 +207,11 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// About page bold styling
+.about strong, .about b {
+  font-weight: bolder;
+}
+
 .profile.float-right {
   margin-left: 1rem;
 }
