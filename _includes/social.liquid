@@ -40,6 +40,9 @@
 {% if site.scopus_id %}
   <a href="https://www.scopus.com/authid/detail.uri?authorId={{site.scopus_id}}" title="Scopus"><i class="ai ai-scopus"></i></a>
 {% endif %}
+{% if site.ssrn_id %}
+  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id={{ site.ssrn_id }}" title="SSRN"><i class="ai ai-ssrn"></i></a>
+{% endif %}
 {% if site.github_username %}
   <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
 {% endif %}
