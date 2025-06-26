@@ -30,7 +30,6 @@
   </div>
 
   <!-- Entry bib key -->
-  <!-- <div id="{{entry.key}}" class="col-sm-9" style="padding-left: 0px;padding-right: 0px;"> -->
   <div id="{{entry.key}}" class="col-sm-9">
     {% if entry.type == 'thesis' -%}
       {{ reference }}
@@ -144,8 +143,8 @@
         {%- endif -%}
       {%- endif -%}
       {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
-    {%- endif %}
-    <div class="periodical">
+      
+      <div class="periodical">
       {{ periodical | strip }}
     </div>
     <ul>
@@ -243,5 +242,13 @@
         {%- endhighlight %}
       </div>
     {%- endif %}
+    {%- endif %}
+  </div>
+  
+  <!-- Year column -->
+  <div class="col-sm-2" style="text-align: right; padding-left: 0px;">
+    {% if entry.year %}
+      <div class="year">{{ entry.year }}</div>
+    {% endif %}
   </div>
 </div>
