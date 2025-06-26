@@ -244,4 +244,11 @@
       {%- endif %}
     {%- endif %}
   </div>
+  
+  <!-- Year column -->
+  <div class="col-sm-3" style="text-align: right; padding-left: 0px;">
+    {% if entry.year and entry.year != 'current' %}
+      <div class="year">{{ entry.year }}</div>
+    {% endif %}
+  </div>
 </div>

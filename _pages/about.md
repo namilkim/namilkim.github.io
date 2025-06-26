@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p>Associate Professor</p>
     <p><a href='https://gsi.yonsei.ac.kr'>Graduate School of Information</a></p>
     <p><a href='https://www.yonsei.ac.kr'>Yonsei University</a></p>
