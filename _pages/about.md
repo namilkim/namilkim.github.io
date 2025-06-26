@@ -30,6 +30,6 @@ My research interests encompass:
 - **Technology Strategy & Institutional Impacts**: Examining how information, institutions, and regulatory frameworks influence innovation, market dynamics, and the global diffusion of technology.
   <br>
 
-For more detailed information on my publications and ongoing projects, please visit the [publications](./publications) section of my webpage or my [google scholar](https://scholar.google.com/citations?user=FvPXxs0AAAAJ) profile.
+For more detailed information on my publications and ongoing projects, please visit the [research](./research) section of my webpage or my [google scholar](https://scholar.google.com/citations?user=FvPXxs0AAAAJ) profile.
 
 If you are interested in my research, feel free to contact me via the email provided below.

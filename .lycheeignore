@@ -1,0 +1,17 @@
+# Ignore all node_modules links
+node_modules/
+
+# Ignore problematic external URLs
+https://img.shields.io/travis/jonschlinkert/isobject.svg?style=flat
+https://github.com/Shopify/liquid-html-parser-prototype/actions/workflows/ci.yml
+http://harc.github.io/ohm/doc/images/visualizer-small.png
+http://harc.github.io//ohm/doc/images/instantiating-grammars.png
+http://harc.github.io/ohm/doc/images/matching.png
+http://component.io/
+https://secure.travis-ci.org/juliangruber/isarray.svg
+https://ci.testling.com/juliangruber/isarray.png
+https://ci.testling.com/juliangruber/isarray
+https://github.com/substack/browserify
+
+# Ignore file paths that don't exist in CI environment
+file:///home/runner/work/namilkim.github.io/namilkim.github.io/node_modules/
