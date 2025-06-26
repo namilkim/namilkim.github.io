@@ -6,9 +6,8 @@ title: CV
 nav: true
 nav_order: 4
 cv_pdf: example_pdf.pdf
-
-
 ---
+
   <article>
 
 <a href="/assets/pdf/Namil_Kim_CV.pdf">Download CV</a>
