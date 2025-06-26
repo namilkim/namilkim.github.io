@@ -4,6 +4,7 @@ node_modules/
 # Ignore problematic external URLs
 https://img.shields.io/travis/jonschlinkert/isobject.svg?style=flat
 https://github.com/Shopify/liquid-html-parser-prototype/actions/workflows/ci.yml
+https://www.pinterest.com/
 http://harc.github.io/ohm/doc/images/visualizer-small.png
 http://harc.github.io//ohm/doc/images/instantiating-grammars.png
 http://harc.github.io/ohm/doc/images/matching.png
